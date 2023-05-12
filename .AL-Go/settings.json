@@ -3,5 +3,6 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "versioningStrategy": 2
+  "versioningStrategy": 2,
+  "repoVersion": "1.1"
 }
